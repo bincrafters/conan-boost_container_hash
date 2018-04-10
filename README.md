@@ -2,7 +2,7 @@
 
 | Bintray | Windows | Linux & macOS | 
 |:--------:|:---------:|:-----------------:|
-|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/boost_container_hash%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/public-conan/boost_container_hash%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/github/bincrafters/conan-boost_container_hash?svg=true)](https://ci.appveyor.com/project/BinCrafters/conan-boost-container)|[![Build Status](https://travis-ci.org/bincrafters/conan-boost_container_hash.svg)](https://travis-ci.org/bincrafters/conan-boost_container_hash)|
+|[![Download](https://api.bintray.com/packages/bincrafters/public-conan/boost_container_hash%3Abincrafters/images/download.svg) ](https://bintray.com/bincrafters/public-conan/boost_container_hash%3Abincrafters/_latestVersion)|[![Build status](https://ci.appveyor.com/api/projects/status/github/bincrafters/conan-boost_container_hash?svg=true)](https://ci.appveyor.com/project/BinCrafters/conan-boost_container_hash)|[![Build Status](https://travis-ci.org/bincrafters/conan-boost_container_hash.svg)](https://travis-ci.org/bincrafters/conan-boost_container_hash)|
 
 ## Conan.io Information
 
