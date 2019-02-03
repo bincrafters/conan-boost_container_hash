@@ -8,6 +8,7 @@ base = python_requires("boost_base/1.69.0@bincrafters/stable")
 
 class BoostContainerConan(base.BoostBaseConan):
     name = "boost_container_hash"
+    version = "1.69.0"
     url = "https://github.com/bincrafters/conan-boost_container_hash"
     lib_short_names = ["container_hash"]
     header_only_libs = ["container_hash"]
